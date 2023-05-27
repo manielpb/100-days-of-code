@@ -10,3 +10,10 @@
 **Today's Progress**: I've completed Freecodecamps Learn Basic CSS by Building a Cafe Menu,it took me about 2hours to complete,I was just following the instructions without good knowledge of what i was doing but normally i google what i don't really understand,some of the things i learnt today was meta elements,pseudo-selector and css selectors.
 
 **Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent
+
+###Day 3: May 26, Friday
+**Today's Progress:Still on freecodecamps web design certification and today it was about  CSS Set of colored markers, I learnt how colors are represented in css from just specifying the color to using rgb to using hexadecimal to hsl to linear gradient for fine tuning them colors.
+
+**Thoughts Now html and css are starting to get familiar for me i understand how somethings are and some codes are now at my fingertips.ps i want to go and buy bread and egg rn which is 1:39 am and watch the popes exorcist,wish me luck
+
+
