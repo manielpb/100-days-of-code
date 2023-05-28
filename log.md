@@ -16,4 +16,6 @@
 
 **Thoughts Now html and css are starting to get familiar for me i understand how somethings are and some codes are now at my fingertips.ps i want to go and buy bread and egg rn which is 1:39 am and watch the popes exorcist,wish me luck
 
+**Day4: May 28, Sunday
+**Today's Progress:Built a registration form using html and css.Writing the code now is becoming off the head activity 
 
