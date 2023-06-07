@@ -19,3 +19,6 @@
 **Day4: May 28, Sunday
 **Today's Progress:Built a registration form using html and css.Writing the code now is becoming off the head activity 
 
+**Day 5:June 7,wednesday
+Its been more than a week since i updated the log problem being i got the survey certification part in freecodecamp and being the first task which i dont get short tasks i was quite stuck but i finally completed the tasks today and i hope i dont ever do that again.ps coding is hard and difficult but i promise i'll make it easy for me
+
