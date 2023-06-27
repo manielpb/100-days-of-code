@@ -22,3 +22,8 @@
 **Day 5:June 7,wednesday
 Its been more than a week since i updated the log problem being i got the survey certification part in freecodecamp and being the first task which i dont get short tasks i was quite stuck but i finally completed the tasks today and i hope i dont ever do that again.ps coding is hard and difficult but i promise i'll make it easy for me
 
+For the past days ive been absent from the 100 day code challenge and as i result i see to muyself that i'll have to start again so from today tuesday,27 june 2023 i start again from dAY 1.
+
+### Day 1: June 27, Tuesday
+*** Already started freeCodeCamp's Responsive Web Design Certification and i;m already on the second curriculum which introduces the rothko painting, i flowed with the codes today and i didnt find any difficulties with it but css as a whole looks more of a design thing which already is😂 AND ME BEING ME DON'T HAVE EYES FOR DESIGN BUT I'LL STILL GO THROUGH IT.
+
