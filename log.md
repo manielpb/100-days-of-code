@@ -27,3 +27,7 @@ For the past days ive been absent from the 100 day code challenge and as i resul
 ### Day 1: June 27, Tuesday
 *** Already started freeCodeCamp's Responsive Web Design Certification and i;m already on the second curriculum which introduces the rothko painting, i flowed with the codes today and i didnt find any difficulties with it but css as a whole looks more of a design thing which already is😂 AND ME BEING ME DON'T HAVE EYES FOR DESIGN BUT I'LL STILL GO THROUGH IT.
 
+###Day 2: June 28, Wednesday
+*** completed the css flexbox on freecodecamp and also started with the resources on the odins project
+
+
