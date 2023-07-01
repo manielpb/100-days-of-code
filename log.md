@@ -33,4 +33,7 @@ For the past days ive been absent from the 100 day code challenge and as i resul
 ###Day 3: June 29,Thursday
 *** Finished another task on freeCodCamp(Learn typography by building a nutrition label), I started coding around 11pm on thursday and actually ended up completing on friday also i have decided to start working on my own projects based on tasks i have already completed o n freeCodeCamps 
 
+###Day 4: July 1, Saturday
+*** Friday wasn't logged imn because i didnt have internet the whole day and because i uploaded the code on early friday dawn,so with today i learnt from the odinproject resource about the web and how it works, even though the challenge is a 100 days of code i didnt code anything today i just learnt some new things 
+
 
