@@ -36,4 +36,8 @@ For the past days ive been absent from the 100 day code challenge and as i resul
 ###Day 4: July 1, Saturday
 *** Friday wasn't logged imn because i didnt have internet the whole day and because i uploaded the code on early friday dawn,so with today i learnt from the odinproject resource about the web and how it works, even though the challenge is a 100 days of code i didnt code anything today i just learnt some new things 
 
+###Day 5: July 2, Sunday
+***Today was a continuation on The Odin Projects prerequisite path,started learning about computer basics all the way to command line interface and git,setted up git on my terminal etc. but learning about cli today was a whole lot fun.No code today too
+
+
 
