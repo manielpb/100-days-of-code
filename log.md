@@ -40,6 +40,6 @@ For the past days ive been absent from the 100 day code challenge and as i resul
 ***Today was a continuation on The Odin Projects prerequisite path,started learning about computer basics all the way to command line interface and git,setted up git on my terminal etc. but learning about cli today was a whole lot fun.No code today too
 
 ###Day 6: July 3, Monday
-*** Learn accessibility by building quiz on freeCodeCamp,today was stressing and frustrating but i ended up using almost 4 hours on the task started around 9pm on monday and finished on 1am tuesday,im now going to read charts too
+*** Learn accessibility by building quiz on freeCodeCamp,today was stressing and frustrating but i ended up using almost 4 hours on the task started around 9pm on monday and finished on 1am tuesday,im now going to read charts too,luckily today i wrote some codes and i'll be uploading to github.
 
 
