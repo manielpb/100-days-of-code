@@ -42,4 +42,8 @@ For the past days ive been absent from the 100 day code challenge and as i resul
 ###Day 6: July 3, Monday
 *** Learn accessibility by building quiz on freeCodeCamp,today was stressing and frustrating but i ended up using almost 4 hours on the task started around 9pm on monday and finished on 1am tuesday,im now going to read charts too,luckily today i wrote some codes and i'll be uploading to github.
 
+For the past days i failed to follow the 100daysofcode challenge due to the fact that internet connectivity wasnt available at the time
+
+###Day 7:July 11,2023, Tuesday
+***I resumed my work on Havard's CS50 course on mario more comfortable pset1,when it comes to cs50 the tasks are more  hallenging than freecodecamp's task because with cs50 you're supposed to do research on your own. 
 
