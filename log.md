@@ -47,3 +47,6 @@ For the past days i failed to follow the 100daysofcode challenge due to the fact
 ###Day 7:July 11,2023, Tuesday
 ***I resumed my work on Havard's CS50 course on mario more comfortable pset1,when it comes to cs50 the tasks are more  hallenging than freecodecamp's task because with cs50 you're supposed to do research on your own. 
 
+###Day 8:July 13,2023,Thursday
+***Finally completed my mario-more pset on cs50,today is one of the days i feel proud about myself writing a code,this code has been bothering me for more than 12 weeks and finally today with determination and hardwork i was able to write the code for the pset
+
