@@ -50,3 +50,6 @@ For the past days i failed to follow the 100daysofcode challenge due to the fact
 ###Day 8:July 13,2023,Thursday
 ***Finally completed my mario-more pset on cs50,today is one of the days i feel proud about myself writing a code,this code has been bothering me for more than 12 weeks and finally today with determination and hardwork i was able to write the code for the pset
 
+###Day 9: July 14,2023,Friday
+*** Started the next c pset(cash less comfortable),I could not finish on the first day but i hope tomorrow,i'll get it,today was more about working the algorithm behind the code 
+
