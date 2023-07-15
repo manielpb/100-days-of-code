@@ -53,3 +53,6 @@ For the past days i failed to follow the 100daysofcode challenge due to the fact
 ###Day 9: July 14,2023,Friday
 *** Started the next c pset(cash less comfortable),I could not finish on the first day but i hope tomorrow,i'll get it,today was more about working the algorithm behind the code 
 
+###Day 10: July 15,2023,Saturday
+*** Completed the problem i started yesterday and moving to the next problem,even though this was a less comfortable one it was so hard on me considering i had to watch videos before i could understand what was required of me also i grasped a lil understanding beteen if else statements and while loops.
+
