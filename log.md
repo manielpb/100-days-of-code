@@ -58,3 +58,6 @@ For the past days i failed to follow the 100daysofcode challenge due to the fact
 
 ###Day 11: July 17,2023,Monday
 ***Started basic javascript today on leetcode and youtube
+
+###Day 12: July 18,2023, Tuesday
+***Remember i said i started leasrning js and i'll start bui;lding projects today,well thing is im over working myself so hence i've decided to stick to cs50 and feeCodeCamp's curriculum and also leetcode 30 days js.
