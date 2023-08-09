@@ -66,4 +66,7 @@ For the past days i failed to follow the 100daysofcode challenge due to the fact
 *** I know i havent been following up with the rules of the game and that is because i have been pursuing other fields in the game like ethical hacking also i remember last time i logged i talked about js projects it didnt turn out good for me so im back to the old grind
 
 ###Day 14: August 8,2023 Tuesday
-*** i know it may seem like i'm not following the rules of the challenge but truth is everyday i make sure to follow freeCodeCamps's curriculum, i only write here whenver i finish a program and uploading to github,so there may be spaces in the dates but i know im doing it right
+*** i know it may seem like i'm not following the rules of the challenge but truth is everyday i make sure to follow freeCodeCamps's curriculum, i only write here whenver i finish a program and uploading to github,so there may be spaces in the dates but i know im doing it right.Todays freeCodeCamp was Learning Css Intermedia by building a picasso painting.
+
+###Day 15: August 9,2023 Wednesday
+***Todays project was just a 33 step process,its about Responsive web design by building a piano, This one took me only an hour 
