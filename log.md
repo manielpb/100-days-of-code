@@ -70,3 +70,6 @@ For the past days i failed to follow the 100daysofcode challenge due to the fact
 
 ###Day 15: August 9,2023 Wednesday
 ***Todays project was just a 33 step process,its about Responsive web design by building a piano, This one took me only an hour 
+
+###Day 16: August 14,2023 Monday
+***I finished css variables project today, took me days but i finally did it.
