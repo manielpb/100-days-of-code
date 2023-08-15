@@ -73,3 +73,6 @@ For the past days i failed to follow the 100daysofcode challenge due to the fact
 
 ###Day 16: August 14,2023 Monday
 ***I finished css variables project today, took me days but i finally did it.
+
+###Day 16: August 15 2023 Tuesday
+***Finished with Css Grids by building a mgazine on freeCodeCamp,concept learn was frid rows and grid columns etc.
