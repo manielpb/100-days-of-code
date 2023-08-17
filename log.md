@@ -76,3 +76,6 @@ For the past days i failed to follow the 100daysofcode challenge due to the fact
 
 ###Day 16: August 15 2023 Tuesday
 ***Finished with Css Grids by building a mgazine on freeCodeCamp,concept learn was frid rows and grid columns etc.
+
+###Day 17: August 17, 2023 Thursday
+***Finished a certification task and CSS animation,concept grasped today was @keyframes rule used in css animations
