@@ -79,3 +79,6 @@ For the past days i failed to follow the 100daysofcode challenge due to the fact
 
 ###Day 17: August 17, 2023 Thursday
 ***Finished a certification task and CSS animation,concept grasped today was @keyframes rule used in css animations
+
+###Day 18: August 27, 2023 Sunday
+***learning intermediate css by building cat painting task things learnms was using the transform property
