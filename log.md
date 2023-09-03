@@ -82,3 +82,6 @@ For the past days i failed to follow the 100daysofcode challenge due to the fact
 
 ###Day 18: August 27, 2023 Sunday
 ***learning intermediate css by building cat painting task things learnms was using the transform property
+
+###Day 19: September 2nd, 2023 Saturday
+*** Completed my last task before last project on resposive web designing after the last project i move onto javascript
